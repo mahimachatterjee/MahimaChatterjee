@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahimachatterjee.info@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T3_OFozcoqN_tARKV2L52ERnZRY_6qOt/view?usp=drive_link](https://drive.google.com/file/d/1T3_OFozcoqN_tARKV2L52ERnZRY_6qOt/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SRCo6sVEblFH0T1JCUcTV_LlQD8l-F_j/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
