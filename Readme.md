@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [dojo_blog](https://github.com/mahimachatterjee/dojo_blog.git)
 
-- 🌱 I’m currently learning **React, Nextjs, Expressjs ,mongoDb**
+- 🌱 I’m currently learning **React, Nextjs, Expressjs , MongoDB and React-native**
 
 - 👯 I’m looking to collaborate on [fullstack projects](https://github.com/mahimachatterjee)
 
